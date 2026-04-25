@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jac 👋
+*(Also Jacqueline, Jackie, or Jacques. Pick your favorite)*
 
-<!--
-**oiyana/oiyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that make everyday life a little more delightful.
+Games, habits, tools, data — if it helps people play, grow and thrive.
 
-Here are some ideas to get you started:
+## What I do
+I have a non-linear career path: 
+`Design` ↔ `Games` ↔ `Data` ↔  `Tools` ↔ `Product` ↔`Teaching`. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a designer turned Product Manager, I've worked across news, games, and data products. I have taught design on the side.
+
+Currently based in New York City. 
+
+## What I'm building right now
+- My personal OS with AI
+- Tools (the super niche kind)
+- Pick up data visualization
+
+
+## Find me
+🌐 [jacqueline-yue.com](http://jacqueline-yue.com)   
