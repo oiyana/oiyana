@@ -6,14 +6,15 @@ I build things that make everyday life a little more delightful. Games, habits, 
 ## What I do
 I have a non-linear career path: `Design` ↔ `Games` ↔ `Data` ↔  `Tools` ↔ `Product` ↔`Teaching`. 
 
-As a designer turned Product Manager, I've worked across news, games, and data products. I have taught design on the side.
+As a designer turned Product Manager, I've worked across news, games, and data products. 
+
+I have taught visual communication course to Games Design BFA students on the side.
 
 Currently based in New York City. 
 
 ## My Current Focus
 - My personal OS with AI
-- Tools (the super niche kind)
-- Pick up data visualization
+- Tools that myself and team
 
 ## Find me
 🌐 [jacqueline-yue.com](http://jacqueline-yue.com)   
