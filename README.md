@@ -1,20 +1,12 @@
 ## Hi, I'm Jac 👋
-*(Also Jacqueline, Jackie, or Jacques. Pick your favorite)*
 
-I build things that make everyday life a little more delightful. Games, habits, tools, data — if it helps people play, grow and thrive.
+I'm a product builder who started as a designer. I build 0-1 products and systems underneath.  
 
-## What I do
-I have a non-linear career path: `Design` ↔ `Games` ↔ `Data` ↔  `Tools` ↔ `Product` ↔`Teaching`. 
-
-As a designer turned Product Manager, I've worked across news, games, and data products. 
-
-I have taught visual communication course to Games Design BFA students on the side.
-
-Currently based in New York City. 
+I've shipped products across news platform, publishing system, games, creator platform, and consumer subscriptions. That includes platforms with billions of monthly views and millions of subscribers, multi-game achievement infrastructure, rule-based automated systems, ML-powered features, analytics dashboards and data visualization.
 
 ## My Current Focus
-- My personal OS with AI
-- Tools that myself and team
+- My personal OS 
+- Useful tools, like a meeting agent that runs entirely on your machine, college research agent for high schoolers. 
 
 ## Find me
 🌐 [jacqueline-yue.com](http://jacqueline-yue.com)   
